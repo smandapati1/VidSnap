@@ -3,7 +3,7 @@ import uuid
 from werkzeug.utils import secure_filename
 import os
 
-UPLOAD_FOLDER = 'user_uploads'
+UPLOAD_FOLDER = 'useruploads'
 
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
 
